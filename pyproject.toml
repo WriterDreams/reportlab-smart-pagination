@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "reportlab-smart-pagination"
-version = "1.0.1"
+version = "1.0.2"
 description = "Height-aware heading protection for ReportLab PDF generation"
 readme = "README.md"
 license = {text = "MIT"}

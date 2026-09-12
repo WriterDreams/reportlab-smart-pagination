@@ -27,6 +27,6 @@ Basic usage::
 
 from .paginator import paginate, SmartPaginator
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 __author__ = "Hamdy Elshamy"
 __all__ = ["paginate", "SmartPaginator"]
