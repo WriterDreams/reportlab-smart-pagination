@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "reportlab-smart-pagination"
-version = "1.0.0"
+version = "1.0.1"
 description = "Height-aware heading protection for ReportLab PDF generation"
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.8"
 authors = [
-    {name = "Hamdy El-Shamha", email = "support@writersdream.ai"},
+    {name = "Hamdy El-Shamhy", email = "support@writersdream.ai"},
 ]
 keywords = ["reportlab", "pdf", "pagination", "headings", "typesetting"]
 classifiers = [

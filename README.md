@@ -4,7 +4,7 @@
 
 Prevents orphaned headings, text overflow, and cascade failures that ReportLab's built-in `keepWithNext` cannot handle.
 
-Created by **Hamdy El-Shamha** — developed for [Writer's Dream AI](https://writersdream.ai), a book writing and publishing platform.
+Created by **Hamdy Elshamy** — developed for [Writer's Dream AI](https://writersdream.ai), a book writing and publishing platform.
 
 ## The Problem
 

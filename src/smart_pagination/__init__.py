@@ -6,7 +6,7 @@ Height-aware heading protection for ReportLab PDF generation.
 Prevents orphaned headings and overflow cascades that ReportLab's
 built-in keepWithNext cannot handle.
 
-Created by Hamdy El-Shamha for Writer's Dream AI (https://writersdream.ai)
+Created by Hamdy Elshamy for Writer's Dream AI (https://writersdream.ai)
 
 Basic usage::
 
@@ -27,6 +27,6 @@ Basic usage::
 
 from .paginator import paginate, SmartPaginator
 
-__version__ = "1.0.0"
-__author__ = "Hamdy El-Shamha"
+__version__ = "1.0.1"
+__author__ = "Hamdy Elshamy"
 __all__ = ["paginate", "SmartPaginator"]

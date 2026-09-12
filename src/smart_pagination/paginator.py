@@ -15,7 +15,7 @@ Two threshold checks prevent the most common failures:
 1. Don't carry more than 50% of a page — prevents overflow on next page
 2. Don't leave a page less than 15% filled — prevents ugly empty pages
 
-Created by Hamdy El-Shamha for Writer's Dream AI.
+Created by Hamdy Elshamy for Writer's Dream AI.
 """
 
 from reportlab.platypus import (
